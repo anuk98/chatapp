@@ -1,0 +1,5 @@
+.sidebar{
+    flex: 1;
+    min-width: 100px;
+    background-color:#3e3c61;
+}

@@ -1,0 +1,27 @@
+
+.userchatsimg{
+ width: 50px;
+ height: 50px;
+ border-radius: 50%;   
+ object-fit: cover;
+}
+.userchats{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    cursor: pointer;
+
+}
+.userchats:hover{
+background-color: #2f2d52;
+}
+.userchatinfo span{
+font-size: 18px;
+font-weight: 500;
+}
+.userchatinfo p{
+    font-size: 14px;
+    color: lightgray;
+}
